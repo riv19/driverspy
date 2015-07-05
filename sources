@@ -1,0 +1,5 @@
+TARGETNAME=driverspy
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+
+SOURCES=driverspy.c hooks.c splice.c mod_info.c
